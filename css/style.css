@@ -32,3 +32,11 @@ table{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+thead {
+    color: white;
+    background-color:#1FA9E5 ;
+}
+tbody {
+    background-color:#B1E5F2 ;
+}
