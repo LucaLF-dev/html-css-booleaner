@@ -23,3 +23,12 @@ header{
 .back__image{
     height: 100px;
 }
+
+.list {
+    margin: 8px;
+}
+
+table{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
