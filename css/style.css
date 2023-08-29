@@ -11,13 +11,21 @@
 
 
 header{
-    height: 100px;
+    height: 70px;
     background-color:#4EA0FF;
-    
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-repeat: repeat-x;
+    position: relative;
 }
 
 .logo__header{
-    width: 100px;
+    width: 200px;
+    position: absolute;
+    left: 10px;
+    bottom: 5px;
+    
+
 }
 
 .back__image{
@@ -67,3 +75,4 @@ footer p {
     color: grey;
     font-size: larger;
 }
+
